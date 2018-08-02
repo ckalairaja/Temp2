@@ -1,0 +1,17 @@
+"""
+Steps to install Python and Tensorflow:
+1) Install 64bit version of python 3.6.x (as of 8/1/2018 3.7 is not supported)
+   Make sure you add the python cmd to your system variables
+2) pip3 install --upgrade tensorflow
+   pip3 install --upgrade scipy
+   pip3 install --upgrade numpy
+   pip3 install --upgrade pandas
+   pip3 install --upgrade matplotlib
+   pip3 install --upgrade scikit-learn
+   pip3 install --upgrade seaborn
+3) You are ready to go
+
+
+-----------------------------------------------------------------------
+$ python -m idlelib.idle    ...............to Start Python's IDLE editor.
+"""
